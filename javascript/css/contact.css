@@ -1,0 +1,13 @@
+h2 {
+  padding: 1rem 2rem;
+  font-style: italic;
+}
+
+address,
+p {
+  padding: 0rem 2rem;
+}
+
+p:not(:last-child) {
+  margin-bottom: 0.5rem;
+}
